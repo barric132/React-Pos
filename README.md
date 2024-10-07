@@ -1,3 +1,7 @@
+## Mnagement System
+본 프로젝트는 포스 개발관련 리액트 심화과정입니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
